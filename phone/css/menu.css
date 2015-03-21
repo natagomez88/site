@@ -1,0 +1,138 @@
+.version.menu /* version checker */
+{
+	color: #0000E0;
+	background-color: #F5A578;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background: #FFFFFF url("../../images/desaturadomovil.jpg") no-repeat left top scroll;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 550px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 20px;
+}
+
+#u4475-4
+{
+	z-index: 3;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 430px;
+	left: 28px;
+}
+
+#u4476-4
+{
+	z-index: 7;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 428px;
+	left: 93px;
+}
+
+#u4477-4
+{
+	z-index: 11;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 430px;
+	left: 194px;
+}
+
+#u4478-4
+{
+	z-index: 15;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 430px;
+	left: 278px;
+}
+
+#u4473
+{
+	z-index: 2;
+	min-height: 47.64999999999998px;
+	background-color: #000000;
+	padding: 102px 62px 14.350000000000023px 51px;
+}
+
+#u4482-4
+{
+	z-index: 23;
+	display: block;
+	vertical-align: top;
+	margin-left: 19px;
+	position: relative;
+}
+
+#u4481-4
+{
+	z-index: 19;
+	display: block;
+	vertical-align: top;
+	margin-top: 4px;
+	position: relative;
+}
+
+#u4473-bw
+{
+	z-index: 2;
+	min-height: 47.64999999999998px;
+	margin-top: 386px;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+	margin-bottom: -386px;
+}
+
