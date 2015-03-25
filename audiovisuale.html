@@ -3,13 +3,20 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.watch.js", "jquery.scrolleffects.js", "audiovisuale.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.watch.js", "museredirect.js", "jquery.scrolleffects.js", "audiovisuale.css"], "outOfDate":[]};
+</script>
+  
+  <script src="scripts/museredirect.js?172797823" type="text/javascript"></script>
+  
+  <script type="text/javascript">
+   Muse.Redirect.redirect('desktop', '', 'phone/audiovisuale.html', '');
 </script>
   
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
   <meta name="generator" content="2014.3.1.295"/>
   <link rel="shortcut icon" href="images/favicon.ico?217207567"/>
   <title>AudiovisualE</title>
+  <link media="only screen and (max-device-width: 370px)" rel="alternate" href="http://www.nataliagd.com/phone/audiovisuale.html"/>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?422415861"/>
   <link rel="stylesheet" type="text/css" href="css/audiovisuale.css?4169930107" id="pagesheet"/>
@@ -91,7 +98,7 @@ for(var c=$(".version"),d=0;d<Muse.assets.required.length;){var f=Muse.assets.re
 typeof $!="undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw Error("Unsupported file type: "+g);}}c.remove();if(Muse.assets.outOfDate.length||Muse.assets.required.length)c="Puede que determinados archivos falten en el servidor o sean incorrectos. Limpie la cache del navegador e inténtelo de nuevo. Si el problema persiste, póngase en contacto con el administrador del sitio web.",(d=location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi))&&Muse.assets.outOfDate.length&&(c+="\nOut of date: "+Muse.assets.outOfDate.join(",")),d&&Muse.assets.required.length&&(c+="\nMissing: "+Muse.assets.required.join(",")),alert(c)})()})();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
-$('#u4011').registerPositionScrollEffect([{"speed":[0,-1],"in":[-Infinity,10.55]},{"speed":[0,0],"in":[10.55,Infinity]}]);/* scroll effect */
+$('#u4011').registerPositionScrollEffect([{"in":[-Infinity,10.55],"speed":[0,-1]},{"in":[10.55,Infinity],"speed":[0,0]}]);/* scroll effect */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */

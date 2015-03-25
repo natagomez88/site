@@ -1,7 +1,7 @@
 .version.menu_english /* version checker */
 {
-	color: #0000F4;
-	background-color: #D05A63;
+	color: #0000E1;
+	background-color: #516492;
 }
 
 @-ms-viewport
@@ -31,21 +31,103 @@
 
 .html
 {
-	background-color: #FFFFFF;
+	background: #FFFFFF url("../../images/desaturadomovilenglish.jpg") no-repeat left top scroll;
+	background-size: cover;
 }
 
 #page
 {
 	z-index: 1;
-	width: 0px;
-	min-height: 0px;
+	width: 380px;
+	min-height: 164px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-top: 71px;
-	padding-right: 380px;
-	padding-bottom: 499px;
+	padding-top: 383px;
+	padding-bottom: 23px;
+}
+
+#u4584
+{
+	z-index: 2;
+	min-height: 105.64999999999998px;
+	background-color: #000000;
+	padding: 44px 25px 14.350000000000023px 34px;
+}
+
+#pu4585-4
+{
+	width: 0.01px;
+	left: -1px;
+	position: relative;
+}
+
+#u4585-4
+{
+	z-index: 3;
+	position: relative;
+	width: 36px;
+	margin-right: -10000px;
+}
+
+#u4586-4
+{
+	z-index: 7;
+	position: relative;
+	width: 71px;
+	margin-right: -10000px;
+	left: 65px;
+}
+
+#u4587-4
+{
+	z-index: 11;
+	position: relative;
+	width: 55px;
+	margin-right: -10000px;
+	left: 166px;
+}
+
+#u4588-4
+{
+	z-index: 15;
+	position: relative;
+	width: 71px;
+	margin-right: -10000px;
+	left: 250px;
+}
+
+#u4585-4_img,#u4586-4_img,#u4587-4_img,#u4588-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+#u4590-4
+{
+	z-index: 23;
+	display: block;
+	vertical-align: top;
+	margin-left: 41px;
+	margin-top: 16px;
+	position: relative;
+}
+
+#u4589-4
+{
+	z-index: 19;
+	display: block;
+	vertical-align: top;
+	margin-left: 23px;
+	margin-top: 4px;
+	position: relative;
+}
+
+#u4584-bw
+{
+	z-index: 2;
+	min-height: 105.64999999999998px;
 }
 
 body
