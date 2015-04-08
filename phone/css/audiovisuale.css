@@ -1,7 +1,7 @@
 .version.audiovisuale /* version checker */
 {
-	color: #000017;
-	background-color: #54CF12;
+	color: #0000F4;
+	background-color: #D05A63;
 }
 
 @-ms-viewport
@@ -31,140 +31,27 @@
 
 .html
 {
-	background: #FFFFFF url("../../images/backgroundv32.jpg") repeat left top scroll;
+	background-color: #FFFFFF;
 }
 
 #page
 {
 	z-index: 1;
-	width: 340px;
-	min-height: 531.7210526315791px;
+	width: 0px;
+	min-height: 0px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding: 13px 15px 25.27894736842086px 25px;
-}
-
-#pu5820
-{
-	width: 0.01px;
-	margin-left: 1px;
-}
-
-#u5820
-{
-	z-index: 24;
-	width: 37px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 6px;
-}
-
-#u5819-4
-{
-	z-index: 2;
-	display: block;
-	vertical-align: top;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 12px;
-	left: 104px;
-}
-
-#u5814
-{
-	z-index: 22;
-	width: 44px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	left: 283px;
-}
-
-#u5813-4
-{
-	z-index: 6;
-	display: block;
-	vertical-align: top;
-	margin-left: 119px;
-	margin-top: 5px;
-	position: relative;
-}
-
-#u5822
-{
-	z-index: 14;
-	width: 330px;
-	min-height: 252px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	margin-top: 19px;
-	position: relative;
-}
-
-#u5816
-{
-	z-index: 15;
-	width: 340px;
-	min-height: 195px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	margin-top: 9px;
-	position: relative;
-}
-
-#u5818-4
-{
-	z-index: 10;
-	display: block;
-	vertical-align: top;
-	margin-left: 116px;
-	margin-top: 42px;
-	position: relative;
-}
-
-#u5808
-{
-	z-index: 16;
-	width: 340px;
-	min-height: 195px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	margin-top: 42px;
-	position: relative;
-}
-
-#u5810
-{
-	z-index: 17;
-	width: 340px;
-	min-height: 195px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	margin-top: 24px;
-	position: relative;
-}
-
-#u5812-4
-{
-	z-index: 18;
-	display: block;
-	vertical-align: top;
-	margin-top: 24px;
-	position: relative;
+	padding-top: 71px;
+	padding-right: 380px;
+	padding-bottom: 499px;
 }
 
 body
 {
 	position: relative;
 	min-width: 380px;
-	padding-top: 4px;
 }
 
 #page .verticalspacer
