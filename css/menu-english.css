@@ -1,12 +1,12 @@
 .version.menu_english /* version checker */
 {
-	color: #000003;
-	background-color: #5CC5AC;
+	color: #000018;
+	background-color: #D48172;
 }
 
 .html
 {
-	background: #000000 url("../images/desaturadoe.jpg") no-repeat left top fixed;
+	background: #000000 url("../images/desaturadoi.jpg") no-repeat left top fixed;
 	background-size: cover;
 }
 

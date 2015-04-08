@@ -1,12 +1,12 @@
 .version.editorial /* version checker */
 {
-	color: #0000E8;
-	background-color: #B778D8;
+	color: #00001C;
+	background-color: #81D51F;
 }
 
 .html
 {
-	background: #FFFFFF url("../images/patrones2.jpg") repeat left top scroll;
+	background: #FFFFFF url("../images/patrones.jpg") repeat left top scroll;
 }
 
 #page
