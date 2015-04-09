@@ -1573,6 +1573,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.nataliagd.com/images/halloween.jpg</loc>
+    <lastmod>2015-04-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.nataliagd.com/images/u5031-4.png</loc>
+    <lastmod>2015-04-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.nataliagd.com/images/u5044-4.png</loc>
+    <lastmod>2015-04-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.nataliagd.com/index.html</loc>
     <lastmod>2015-04-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -1587,7 +1605,7 @@
   </url>
   <url>
     <loc>http://www.nataliagd.com/menu.html</loc>
-    <lastmod>2015-03-20</lastmod>
+    <lastmod>2015-04-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.nataliagd.com/phone/menu.html"/>
