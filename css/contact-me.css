@@ -15,8 +15,8 @@
 
 .version.contact_me /* version checker */
 {
-	color: #000019;
-	background-color: #CDAB83;
+	color: #00001C;
+	background-color: #702439;
 }
 
 .html
@@ -388,8 +388,8 @@
 #widgetu4248.frm-sub-st #u4259-4 p
 {
 	color: #999999;
-	font-size: 14px;
 	line-height: 1;
+	font-size: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-style: italic;
 }
@@ -404,9 +404,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
+	line-height: 14px;
 	color: #FF0000;
 	font-size: 12px;
-	line-height: 14px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -417,8 +417,8 @@
 #widgetu4248.frm-subm-err-st #u4257-4 p
 {
 	color: #D7244C;
-	font-size: 14px;
 	line-height: 1;
+	font-size: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-style: italic;
 }
@@ -433,9 +433,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
+	line-height: 12px;
 	color: #00FF00;
 	font-size: 12px;
-	line-height: 12px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;

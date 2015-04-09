@@ -1,18 +1,18 @@
-<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1428539708841">
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1428541712638">
   <folder name="css">
     <file name="site_global.css" crc="422415861"/>
     <file name="menu.css" crc="4071707552" ref="menu"/>
     <file name="index.css" crc="3762050774" ref="index"/>
     <file name="perfil.css" crc="303006802" ref="perfil"/>
     <file name="menu-english.css" crc="416579954" ref="menu-english"/>
-    <file name="ilustracion.css" crc="3964812895" ref="ilustracion"/>
-    <file name="illustration.css" crc="405447278" ref="illustration"/>
+    <file name="ilustracion.css" crc="3794035049" ref="ilustracion"/>
+    <file name="illustration.css" crc="4203845055" ref="illustration"/>
     <file name="audiovisuale.css" crc="4169930107" ref="audiovisuale"/>
-    <file name="editorial.css" crc="3825770262" ref="editorial"/>
-    <file name="editoriale.css" crc="3774932061" ref="editoriale"/>
+    <file name="editorial.css" crc="4225138779" ref="editorial"/>
+    <file name="editoriale.css" crc="3914996168" ref="editoriale"/>
     <file name="audiovisual.css" crc="42409621" ref="audiovisual"/>
-    <file name="contact-me.css" crc="432909187" ref="contact-me"/>
-    <file name="contacto.css" crc="247144772" ref="contacto"/>
+    <file name="contact-me.css" crc="477111353" ref="contact-me"/>
+    <file name="contacto.css" crc="4127212921" ref="contacto"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3880902115" ref="phone>index:phone>menu:phone>ilustracion:phone>audiovisual:phone>editorial:phone>menu-english:phone>illustration:phone>audiovisuale:phone>editoriale:index:perfil:menu:ilustracion:editorial:audiovisual:contacto:menu-english:illustration:audiovisuale:editoriale:contact-me:phone>contacto:phone>contact-me:phone>perfil"/>
@@ -20,7 +20,7 @@
     <file name="jquery.watch.js" crc="56779320" ref="phone>index:phone>menu:phone>ilustracion:phone>audiovisual:phone>editorial:phone>menu-english:phone>illustration:phone>audiovisuale:phone>editoriale:index:perfil:menu:ilustracion:editorial:audiovisual:contacto:menu-english:illustration:audiovisuale:editoriale:contact-me:phone>contacto:phone>contact-me:phone>perfil"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="phone>menu:index:menu:contacto:menu-english:contact-me"/>
     <file name="museredirect.js" crc="4117159434" ref="index:menu"/>
-    <file name="jquery.scrolleffects.js" crc="4038615763" ref="ilustracion:editorial:audiovisual:illustration:audiovisuale:editoriale"/>
+    <file name="jquery.scrolleffects.js" crc="4038615763" ref="ilustracion:audiovisual:illustration:audiovisuale:editoriale:editorial"/>
     <file name="webpro.js" crc="220831917" ref="ilustracion:editorial:contacto:illustration:editoriale:contact-me"/>
     <file name="musewpslideshow.js" crc="224651946" ref="ilustracion:editorial:illustration:editoriale"/>
     <file name="jquery.museoverlay.js" crc="276313855" ref="ilustracion:editorial:illustration:editoriale"/>
@@ -35,7 +35,7 @@
   <folder name="images">
     <file name="backgroundv3.jpg" crc="4193729423" ref="index:contacto:contact-me:phone>index"/>
     <file name="u4450-4.png" crc="3799007241" ref="phone>index"/>
-    <file name="avatarmenu.png" crc="322716698" ref="perfil:menu:ilustracion:editorial:audiovisual:contacto:menu-english:illustration:audiovisuale:editoriale:contact-me:phone>index"/>
+    <file name="avatarmenu.png" crc="322716698" ref="perfil:menu:ilustracion:audiovisual:contacto:menu-english:illustration:audiovisuale:editoriale:contact-me:phone>index:editorial"/>
     <file name="u4451-4.png" crc="130284526" ref="phone>index"/>
     <file name="desaturadomovil.jpg" crc="271648511" ref="phone>menu"/>
     <file name="u4475-4.png" crc="30954420" ref="phone>menu"/>
@@ -112,16 +112,6 @@
     <file name="u2001-4.png" crc="189003957" ref="ilustracion"/>
     <file name="u3396-4.png" crc="436200707" ref="ilustracion"/>
     <file name="patrones.jpg" crc="418731573" ref="editorial:editoriale"/>
-    <file name="el colombiano agosto 11 de 2013-página 32 - 33 - feria de flores-primera.jpg" crc="304329724" ref="editorial:editoriale"/>
-    <file name="el colombiano noviembre 2 de 2013-página 44-primera.jpg" crc="245558195" ref="editorial:editoriale"/>
-    <file name="info modificado.jpg" crc="24609268" ref="editorial:editoriale"/>
-    <file name="u3516-4.png" crc="418005697" ref="editorial"/>
-    <file name="u3578-4.png" crc="384184561" ref="editorial"/>
-    <file name="u3587-4.png" crc="4097354403" ref="editorial"/>
-    <file name="logocolombiano.png" crc="3960317914" ref="editorial:editoriale"/>
-    <file name="u2949-4.png" crc="437937558" ref="editorial"/>
-    <file name="u2296-4.png" crc="4233951955" ref="editorial"/>
-    <file name="posillo.png" crc="339457012" ref="editorial:editoriale"/>
     <file name="u2110-7.png" crc="3886056645" ref="editorial"/>
     <file name="los tres.jpg" crc="4196992413" ref="editorial:editoriale"/>
     <file name="trotar.jpg" crc="531399422" ref="editorial:editoriale"/>
@@ -131,36 +121,8 @@
     <file name="trotar713x264.jpg" crc="138404892" ref="editorial"/>
     <file name="maracana713x264.jpg" crc="503837500" ref="editorial"/>
     <file name="usaint713x264.jpg" crc="354266452" ref="editorial"/>
-    <file name="u3425-4.png" crc="3789945602" ref="editorial"/>
-    <file name="u3501-4.png" crc="114307910" ref="editorial"/>
-    <file name="u3492-4.png" crc="4031996226" ref="editorial"/>
-    <file name="u3510-4.png" crc="3793119951" ref="editorial"/>
-    <file name="u2530-4.png" crc="526037459" ref="editorial"/>
     <file name="u2531-4.png" crc="3822870269" ref="editorial"/>
-    <file name="aulas.jpg" crc="226363061" ref="editorial:editoriale"/>
-    <file name="mandela.jpg" crc="4236616400" ref="editorial:editoriale"/>
-    <file name="nicaragua.jpg" crc="294188141" ref="editorial:editoriale"/>
-    <file name="parrilleros.jpg" crc="3771814932" ref="editorial:editoriale"/>
-    <file name="periodista.jpg" crc="3931756603" ref="editorial:editoriale"/>
-    <file name="proceso de paz.jpg" crc="428002594" ref="editorial:editoriale"/>
-    <file name="tigrilllos.jpg" crc="4022184659" ref="editorial:editoriale"/>
-    <file name="aulas712x264.jpg" crc="4046734290" ref="editorial"/>
-    <file name="mandela712x264.jpg" crc="448293810" ref="editorial"/>
-    <file name="nicaragua712x264.jpg" crc="255225004" ref="editorial"/>
-    <file name="parrilleros712x264.jpg" crc="4290848936" ref="editorial"/>
-    <file name="periodista712x264.jpg" crc="441268937" ref="editorial"/>
-    <file name="proceso de paz712x264.jpg" crc="3793086162" ref="editorial"/>
-    <file name="tigrilllos712x264.jpg" crc="169524636" ref="editorial"/>
-    <file name="u3596-4.png" crc="523798013" ref="editorial"/>
-    <file name="u3678-4.png" crc="300454426" ref="editorial"/>
-    <file name="u3687-4.png" crc="4188313208" ref="editorial"/>
-    <file name="u3696-4.png" crc="4195881987" ref="editorial"/>
-    <file name="u3705-4.png" crc="301542517" ref="editorial"/>
-    <file name="u3714-4.png" crc="119902597" ref="editorial"/>
-    <file name="u3723-4.png" crc="141603890" ref="editorial"/>
-    <file name="cirugia.jpg" crc="352449687" ref="editorial:editoriale"/>
-    <file name="u3729-4.png" crc="3807862680" ref="editorial"/>
-    <file name="u3397-4.png" crc="3771004711" ref="editorial"/>
+    <file name="cirugia.jpg" crc="352449687" ref="editoriale:editorial"/>
     <file name="u2825-4.png" crc="4245872957" ref="audiovisual"/>
     <file name="untitled-1 (1).png" crc="41459882" ref="audiovisual:audiovisuale"/>
     <file name="u2760-6.png" crc="4095934363" ref="audiovisual"/>
@@ -224,27 +186,7 @@
     <file name="u4016-7.png" crc="87097665" ref="audiovisuale"/>
     <file name="u4019-4.png" crc="192476978" ref="audiovisuale"/>
     <file name="u4026-4.png" crc="436200707" ref="audiovisuale"/>
-    <file name="u4149-4.png" crc="437937558" ref="editoriale"/>
-    <file name="u4176-4.png" crc="222229358" ref="editoriale"/>
-    <file name="u4180-8.png" crc="180199509" ref="editoriale"/>
-    <file name="u4063-4.png" crc="3789945602" ref="editoriale"/>
-    <file name="u4065-4.png" crc="114307910" ref="editoriale"/>
-    <file name="u4062-4.png" crc="4031996226" ref="editoriale"/>
-    <file name="u4064-4.png" crc="3793119951" ref="editoriale"/>
-    <file name="u4153-4.png" crc="418005697" ref="editoriale"/>
-    <file name="u4152-4.png" crc="384184561" ref="editoriale"/>
-    <file name="u4154-4.png" crc="4097354403" ref="editoriale"/>
-    <file name="u4082-4.png" crc="319431944" ref="editoriale"/>
-    <file name="u4179-6.png" crc="3965296973" ref="editoriale"/>
-    <file name="u4122-4.png" crc="523798013" ref="editoriale"/>
-    <file name="u4121-4.png" crc="300454426" ref="editoriale"/>
-    <file name="u4126-4.png" crc="4188313208" ref="editoriale"/>
-    <file name="u4123-4.png" crc="4195881987" ref="editoriale"/>
-    <file name="u4125-4.png" crc="301542517" ref="editoriale"/>
-    <file name="u4120-4.png" crc="119902597" ref="editoriale"/>
-    <file name="u4124-4.png" crc="141603890" ref="editoriale"/>
     <file name="u4136-4.png" crc="3807862680" ref="editoriale"/>
-    <file name="u4132-4.png" crc="3771004711" ref="editoriale"/>
     <file name="conejotextoonglesl.png" crc="4248001814" ref="contact-me"/>
     <file name="u4254.png" crc="4272223331" ref="contact-me"/>
     <file name="u4254-ferr.png" crc="3961790908" ref="contact-me"/>
@@ -298,6 +240,64 @@
     <file name="halloween.jpg" crc="3884835220" ref="ilustracion:illustration"/>
     <file name="u5031-4.png" crc="3823041114" ref="ilustracion"/>
     <file name="u5044-4.png" crc="3823041114" ref="illustration"/>
+    <file name="logocolombiano.png" crc="3960317914" ref="editorial:editoriale"/>
+    <file name="u2949-4.png" crc="437937558" ref="editorial"/>
+    <file name="u2296-4.png" crc="4233951955" ref="editorial"/>
+    <file name="posillo.png" crc="339457012" ref="editorial:editoriale"/>
+    <file name="u2530-4.png" crc="526037459" ref="editorial"/>
+    <file name="u3729-4.png" crc="3807862680" ref="editorial"/>
+    <file name="u3397-4.png" crc="3771004711" ref="editorial"/>
+    <file name="u4149-4.png" crc="437937558" ref="editoriale"/>
+    <file name="u4176-4.png" crc="222229358" ref="editoriale"/>
+    <file name="u4180-8.png" crc="180199509" ref="editoriale"/>
+    <file name="u4082-4.png" crc="319431944" ref="editoriale"/>
+    <file name="u4179-6.png" crc="3965296973" ref="editoriale"/>
+    <file name="u3425-4.png" crc="3789945602" ref="editorial"/>
+    <file name="u3501-4.png" crc="114307910" ref="editorial"/>
+    <file name="u3492-4.png" crc="4031996226" ref="editorial"/>
+    <file name="u3510-4.png" crc="3793119951" ref="editorial"/>
+    <file name="el colombiano agosto 11 de 2013-página 32 - 33 - feria de flores-primera.jpg" crc="304329724" ref="editorial:editoriale"/>
+    <file name="el colombiano noviembre 2 de 2013-página 44-primera.jpg" crc="245558195" ref="editorial:editoriale"/>
+    <file name="info modificado.jpg" crc="24609268" ref="editorial:editoriale"/>
+    <file name="u3516-4.png" crc="418005697" ref="editorial"/>
+    <file name="u3578-4.png" crc="384184561" ref="editorial"/>
+    <file name="u3587-4.png" crc="4097354403" ref="editorial"/>
+    <file name="aulas.jpg" crc="226363061" ref="editorial:editoriale"/>
+    <file name="mandela.jpg" crc="4236616400" ref="editorial:editoriale"/>
+    <file name="nicaragua.jpg" crc="294188141" ref="editorial:editoriale"/>
+    <file name="parrilleros.jpg" crc="3771814932" ref="editorial:editoriale"/>
+    <file name="periodista.jpg" crc="3931756603" ref="editorial:editoriale"/>
+    <file name="proceso de paz.jpg" crc="428002594" ref="editorial:editoriale"/>
+    <file name="tigrilllos.jpg" crc="4022184659" ref="editorial:editoriale"/>
+    <file name="aulas712x264.jpg" crc="4046734290" ref="editorial"/>
+    <file name="mandela712x264.jpg" crc="448293810" ref="editorial"/>
+    <file name="nicaragua712x264.jpg" crc="255225004" ref="editorial"/>
+    <file name="parrilleros712x264.jpg" crc="4290848936" ref="editorial"/>
+    <file name="periodista712x264.jpg" crc="441268937" ref="editorial"/>
+    <file name="proceso de paz712x264.jpg" crc="3793086162" ref="editorial"/>
+    <file name="tigrilllos712x264.jpg" crc="169524636" ref="editorial"/>
+    <file name="u3596-4.png" crc="523798013" ref="editorial"/>
+    <file name="u3678-4.png" crc="300454426" ref="editorial"/>
+    <file name="u3687-4.png" crc="4188313208" ref="editorial"/>
+    <file name="u3696-4.png" crc="4195881987" ref="editorial"/>
+    <file name="u3705-4.png" crc="301542517" ref="editorial"/>
+    <file name="u3714-4.png" crc="119902597" ref="editorial"/>
+    <file name="u3723-4.png" crc="141603890" ref="editorial"/>
+    <file name="u4063-4.png" crc="3789945602" ref="editoriale"/>
+    <file name="u4065-4.png" crc="114307910" ref="editoriale"/>
+    <file name="u4062-4.png" crc="4031996226" ref="editoriale"/>
+    <file name="u4064-4.png" crc="3793119951" ref="editoriale"/>
+    <file name="u4122-4.png" crc="523798013" ref="editoriale"/>
+    <file name="u4121-4.png" crc="300454426" ref="editoriale"/>
+    <file name="u4126-4.png" crc="4188313208" ref="editoriale"/>
+    <file name="u4123-4.png" crc="4195881987" ref="editoriale"/>
+    <file name="u4125-4.png" crc="301542517" ref="editoriale"/>
+    <file name="u4120-4.png" crc="119902597" ref="editoriale"/>
+    <file name="u4124-4.png" crc="141603890" ref="editoriale"/>
+    <file name="u4153-4.png" crc="418005697" ref="editoriale"/>
+    <file name="u4152-4.png" crc="384184561" ref="editoriale"/>
+    <file name="u4154-4.png" crc="4097354403" ref="editoriale"/>
+    <file name="u4132-4.png" crc="3771004711" ref="editoriale"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -314,8 +314,8 @@
       <file name="contact-me.css" crc="4107295331" ref="phone>contact-me"/>
       <file name="contacto.css" crc="4107295331" ref="phone>contacto"/>
     </folder>
-    <file name="index.html" crc="457278910" mt="1426890975640" redirect="true"/>
-    <file name="menu.html" crc="4039629380" mt="1428509841686" redirect="true"/>
+    <file name="index.html" crc="457278910" mt="1428541557715" redirect="true"/>
+    <file name="menu.html" crc="4039629380" mt="1428541557715" redirect="true"/>
     <file name="ilustracion.html" crc="193429907" mt="1426890527408" redirect="false"/>
     <file name="audiovisual.html" crc="3926702988" mt="1426890527414" redirect="false"/>
     <file name="editorial.html" crc="4118779133" mt="1426890527421" redirect="false"/>
@@ -327,16 +327,16 @@
     <file name="contact-me.html" crc="4057483201" mt="1426890528336" redirect="false"/>
     <file name="perfil.html" crc="214904945" mt="1426890527468" redirect="false"/>
   </folder>
-  <file name="index.html" crc="3958282254" mt="1428509843372" redirect="true"/>
-  <file name="perfil.html" crc="448117843" mt="1426890528375" redirect="true"/>
-  <file name="menu.html" crc="327768951" mt="1428539370803" redirect="true"/>
-  <file name="ilustracion.html" crc="4237675130" mt="1428539431767" redirect="true"/>
-  <file name="editorial.html" crc="4027386525" mt="1428509842207" redirect="true"/>
-  <file name="audiovisual.html" crc="437697864" mt="1428509842080" redirect="true"/>
-  <file name="contacto.html" crc="529881813" mt="1428509843242" redirect="true"/>
-  <file name="menu-english.html" crc="4166015262" mt="1428539345523" redirect="true"/>
-  <file name="illustration.html" crc="121658496" mt="1428539452429" redirect="true"/>
-  <file name="audiovisuale.html" crc="4071137844" mt="1428509841940" redirect="true"/>
-  <file name="editoriale.html" crc="4048891284" mt="1428509842163" redirect="true"/>
-  <file name="contact-me.html" crc="4137682944" mt="1428509843200" redirect="true"/>
+  <file name="index.html" crc="3958282254" mt="1428541557705" redirect="true"/>
+  <file name="perfil.html" crc="448117843" mt="1428541557705" redirect="true"/>
+  <file name="menu.html" crc="327768951" mt="1428541557706" redirect="true"/>
+  <file name="ilustracion.html" crc="4237675130" mt="1428541557707" redirect="true"/>
+  <file name="editorial.html" crc="255352324" mt="1428541557708" redirect="true"/>
+  <file name="audiovisual.html" crc="437697864" mt="1428541557708" redirect="true"/>
+  <file name="contacto.html" crc="529881813" mt="1428541557709" redirect="true"/>
+  <file name="menu-english.html" crc="4166015262" mt="1428541557710" redirect="true"/>
+  <file name="illustration.html" crc="121658496" mt="1428541557711" redirect="true"/>
+  <file name="audiovisuale.html" crc="4071137844" mt="1428541557712" redirect="true"/>
+  <file name="editoriale.html" crc="329500028" mt="1428541579216" redirect="true"/>
+  <file name="contact-me.html" crc="4137682944" mt="1428541557714" redirect="true"/>
 </manifest>
