@@ -1,36 +1,36 @@
-<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1428514110164">
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1428539708841">
   <folder name="css">
     <file name="site_global.css" crc="422415861"/>
     <file name="menu.css" crc="4071707552" ref="menu"/>
     <file name="index.css" crc="3762050774" ref="index"/>
     <file name="perfil.css" crc="303006802" ref="perfil"/>
     <file name="menu-english.css" crc="416579954" ref="menu-english"/>
-    <file name="ilustracion.css" crc="192665494" ref="ilustracion"/>
-    <file name="illustration.css" crc="422664931" ref="illustration"/>
+    <file name="ilustracion.css" crc="3964812895" ref="ilustracion"/>
+    <file name="illustration.css" crc="405447278" ref="illustration"/>
     <file name="audiovisuale.css" crc="4169930107" ref="audiovisuale"/>
-    <file name="editorial.css" crc="478270751" ref="editorial"/>
-    <file name="editoriale.css" crc="491441925" ref="editoriale"/>
+    <file name="editorial.css" crc="3825770262" ref="editorial"/>
+    <file name="editoriale.css" crc="3774932061" ref="editoriale"/>
     <file name="audiovisual.css" crc="42409621" ref="audiovisual"/>
-    <file name="contact-me.css" crc="184607927" ref="contact-me"/>
-    <file name="contacto.css" crc="86823490" ref="contacto"/>
+    <file name="contact-me.css" crc="432909187" ref="contact-me"/>
+    <file name="contacto.css" crc="247144772" ref="contacto"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="364326742" ref="phone>index:phone>menu:phone>ilustracion:phone>audiovisual:phone>editorial:phone>menu-english:phone>illustration:phone>audiovisuale:phone>editoriale:index:perfil:menu:ilustracion:editorial:audiovisual:contacto:menu-english:illustration:audiovisuale:editoriale:contact-me:phone>contacto:phone>contact-me:phone>perfil"/>
-    <file name="museutils.js" crc="479751881" ref="phone>index:phone>menu:phone>ilustracion:phone>audiovisual:phone>editorial:phone>menu-english:phone>illustration:phone>audiovisuale:phone>editoriale:index:perfil:menu:ilustracion:editorial:audiovisual:contacto:menu-english:illustration:audiovisuale:editoriale:contact-me:phone>contacto:phone>contact-me:phone>perfil"/>
-    <file name="jquery.watch.js" crc="4232581965" ref="phone>index:phone>menu:phone>ilustracion:phone>audiovisual:phone>editorial:phone>menu-english:phone>illustration:phone>audiovisuale:phone>editoriale:index:perfil:menu:ilustracion:editorial:audiovisual:contacto:menu-english:illustration:audiovisuale:editoriale:contact-me:phone>contacto:phone>contact-me:phone>perfil"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="503158633" ref="phone>menu:index:menu:contacto:menu-english:contact-me"/>
-    <file name="museredirect.js" crc="172797823" ref="index:menu"/>
-    <file name="jquery.scrolleffects.js" crc="445554118" ref="ilustracion:editorial:audiovisual:illustration:audiovisuale:editoriale"/>
-    <file name="webpro.js" crc="3930024250" ref="ilustracion:editorial:contacto:illustration:editoriale:contact-me"/>
-    <file name="musewpslideshow.js" crc="4014282895" ref="ilustracion:editorial:illustration:editoriale"/>
-    <file name="jquery.museoverlay.js" crc="4213181908" ref="ilustracion:editorial:illustration:editoriale"/>
-    <file name="touchswipe.js" crc="4151298246" ref="ilustracion:editorial:illustration:editoriale"/>
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="phone>index:phone>menu:phone>ilustracion:phone>audiovisual:phone>editorial:phone>menu-english:phone>illustration:phone>audiovisuale:phone>editoriale:index:perfil:menu:ilustracion:editorial:audiovisual:contacto:menu-english:illustration:audiovisuale:editoriale:contact-me:phone>contacto:phone>contact-me:phone>perfil"/>
+    <file name="museutils.js" crc="521960461" ref="phone>index:phone>menu:phone>ilustracion:phone>audiovisual:phone>editorial:phone>menu-english:phone>illustration:phone>audiovisuale:phone>editoriale:index:perfil:menu:ilustracion:editorial:audiovisual:contacto:menu-english:illustration:audiovisuale:editoriale:contact-me:phone>contacto:phone>contact-me:phone>perfil"/>
+    <file name="jquery.watch.js" crc="56779320" ref="phone>index:phone>menu:phone>ilustracion:phone>audiovisual:phone>editorial:phone>menu-english:phone>illustration:phone>audiovisuale:phone>editoriale:index:perfil:menu:ilustracion:editorial:audiovisual:contacto:menu-english:illustration:audiovisuale:editoriale:contact-me:phone>contacto:phone>contact-me:phone>perfil"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="phone>menu:index:menu:contacto:menu-english:contact-me"/>
+    <file name="museredirect.js" crc="4117159434" ref="index:menu"/>
+    <file name="jquery.scrolleffects.js" crc="4038615763" ref="ilustracion:editorial:audiovisual:illustration:audiovisuale:editoriale"/>
+    <file name="webpro.js" crc="220831917" ref="ilustracion:editorial:contacto:illustration:editoriale:contact-me"/>
+    <file name="musewpslideshow.js" crc="224651946" ref="ilustracion:editorial:illustration:editoriale"/>
+    <file name="jquery.museoverlay.js" crc="276313855" ref="ilustracion:editorial:illustration:editoriale"/>
+    <file name="touchswipe.js" crc="325405309" ref="ilustracion:editorial:illustration:editoriale"/>
     <file name="pie.js" crc="3827607177" ref="ilustracion:editorial:illustration:editoriale"/>
-    <file name="form_check.php" crc="332337308" ref="contacto:contact-me"/>
-    <file name="form_throttle.php" crc="3814272331" ref="contacto:contact-me"/>
-    <file name="form_process.php" crc="59041389" ref="contacto:contact-me"/>
-    <file name="form-u3336.php" crc="470940932" ref="contacto"/>
-    <file name="form-u4248.php" crc="107876499" ref="contact-me"/>
+    <file name="form_check.php" crc="218543696" ref="contacto:contact-me"/>
+    <file name="form_throttle.php" crc="3988545917" ref="contacto:contact-me"/>
+    <file name="form_process.php" crc="4264751530" ref="contacto:contact-me"/>
+    <file name="form-u3336.php" crc="4150902279" ref="contacto"/>
+    <file name="form-u4248.php" crc="536434881" ref="contact-me"/>
   </folder>
   <folder name="images">
     <file name="backgroundv3.jpg" crc="4193729423" ref="index:contacto:contact-me:phone>index"/>
@@ -44,7 +44,7 @@
     <file name="u4478-4.png" crc="177881489" ref="phone>menu"/>
     <file name="u4482-4.png" crc="4290941472" ref="phone>menu"/>
     <file name="u4481-4.png" crc="4280736052" ref="phone>menu"/>
-    <file name="favicon.ico" crc="217207567" ref="index:menu-english"/>
+    <file name="favicon.ico" crc="217207567" ref="index"/>
     <file name="pinterest roll.png" crc="526799126" ref="index:contacto:contact-me"/>
     <file name="pinterest.png" crc="4210194485" ref="index:contacto:contact-me"/>
     <file name="instagram roll.png" crc="370906964" ref="index:contacto:contact-me"/>
@@ -70,8 +70,8 @@
     <file name="u3178_states-r.png" crc="443782106" ref="menu"/>
     <file name="u3143_states.png" crc="207844122" ref="menu"/>
     <file name="u3143_states-r.png" crc="4182248012" ref="menu"/>
-    <file name="u3145_states.png" crc="3991983661" ref="menu"/>
-    <file name="u3145_states-r.png" crc="258482536" ref="menu"/>
+    <file name="u3145_states.png" crc="4016331598" ref="menu"/>
+    <file name="u3145_states-r.png" crc="4179085487" ref="menu"/>
     <file name="u3146_states.png" crc="421952510" ref="menu"/>
     <file name="u3146_states-r.png" crc="268479424" ref="menu"/>
     <file name="u3394-4.png" crc="436200707" ref="menu"/>
@@ -198,8 +198,8 @@
     <file name="u3837_states-r.png" crc="253622818" ref="menu-english"/>
     <file name="u3838_states.png" crc="207844122" ref="menu-english"/>
     <file name="u3838_states-r.png" crc="4182248012" ref="menu-english"/>
-    <file name="u3839_states.png" crc="3991983661" ref="menu-english"/>
-    <file name="u3839_states-r.png" crc="258482536" ref="menu-english"/>
+    <file name="u3839_states.png" crc="4016331598" ref="menu-english"/>
+    <file name="u3839_states-r.png" crc="4179085487" ref="menu-english"/>
     <file name="u3840_states.png" crc="159619063" ref="menu-english"/>
     <file name="u3840_states-r.png" crc="4209615096" ref="menu-english"/>
     <file name="u3833-4.png" crc="436200707" ref="menu-english"/>
@@ -283,7 +283,7 @@
     <file name="u4874-4.png" crc="475948416" ref="ilustracion"/>
     <file name="u4883-4.png" crc="325795932" ref="ilustracion"/>
     <file name="u4892-4.png" crc="234721855" ref="ilustracion"/>
-    <file name="desaturadoi.jpg" crc="3815625327" ref="menu-english"/>
+    <file name="desaturadoi.jpg" crc="4116039047" ref="menu-english"/>
     <file name="u4906-4.png" crc="189003957" ref="illustration"/>
     <file name="u4902-4.png" crc="4027267691" ref="illustration"/>
     <file name="u4901-4.png" crc="4275031555" ref="illustration"/>
@@ -295,6 +295,9 @@
     <file name="u4909-4.png" crc="364639862" ref="illustration"/>
     <file name="u4903-4.png" crc="475948416" ref="illustration"/>
     <file name="u4910-4.png" crc="325795932" ref="illustration"/>
+    <file name="halloween.jpg" crc="3884835220" ref="ilustracion:illustration"/>
+    <file name="u5031-4.png" crc="3823041114" ref="ilustracion"/>
+    <file name="u5044-4.png" crc="3823041114" ref="illustration"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -311,29 +314,29 @@
       <file name="contact-me.css" crc="4107295331" ref="phone>contact-me"/>
       <file name="contacto.css" crc="4107295331" ref="phone>contacto"/>
     </folder>
-    <file name="index.html" crc="424618803" mt="1426890975640" redirect="true"/>
-    <file name="menu.html" crc="437039678" mt="1428509841686" redirect="true"/>
-    <file name="ilustracion.html" crc="271266168" mt="1426890527408" redirect="false"/>
-    <file name="audiovisual.html" crc="4053797735" mt="1426890527414" redirect="false"/>
-    <file name="editorial.html" crc="4014663293" mt="1426890527421" redirect="false"/>
-    <file name="menu-english.html" crc="4134760783" mt="1426890527434" redirect="false"/>
-    <file name="illustration.html" crc="4209022055" mt="1426890527441" redirect="false"/>
-    <file name="audiovisuale.html" crc="16165231" mt="1426890527447" redirect="false"/>
-    <file name="editoriale.html" crc="285477592" mt="1426890527454" redirect="false"/>
-    <file name="contacto.html" crc="382119016" mt="1426890528123" redirect="false"/>
-    <file name="contact-me.html" crc="271876876" mt="1426890528336" redirect="false"/>
-    <file name="perfil.html" crc="3988074002" mt="1426890527468" redirect="false"/>
+    <file name="index.html" crc="457278910" mt="1426890975640" redirect="true"/>
+    <file name="menu.html" crc="4039629380" mt="1428509841686" redirect="true"/>
+    <file name="ilustracion.html" crc="193429907" mt="1426890527408" redirect="false"/>
+    <file name="audiovisual.html" crc="3926702988" mt="1426890527414" redirect="false"/>
+    <file name="editorial.html" crc="4118779133" mt="1426890527421" redirect="false"/>
+    <file name="menu-english.html" crc="3990961518" mt="1426890527434" redirect="false"/>
+    <file name="illustration.html" crc="3782400070" mt="1426890527441" redirect="false"/>
+    <file name="audiovisuale.html" crc="459597134" mt="1426890527447" redirect="false"/>
+    <file name="editoriale.html" crc="4041788949" mt="1426890527454" redirect="false"/>
+    <file name="contacto.html" crc="471615696" mt="1426890528123" redirect="false"/>
+    <file name="contact-me.html" crc="4057483201" mt="1426890528336" redirect="false"/>
+    <file name="perfil.html" crc="214904945" mt="1426890527468" redirect="false"/>
   </folder>
-  <file name="index.html" crc="4045905057" mt="1428509843372" redirect="true"/>
-  <file name="perfil.html" crc="3979751400" mt="1426890528375" redirect="true"/>
-  <file name="menu.html" crc="4121921713" mt="1426890527959" redirect="true"/>
-  <file name="ilustracion.html" crc="4155254373" mt="1428511970076" redirect="true"/>
-  <file name="editorial.html" crc="462975710" mt="1428509842207" redirect="true"/>
-  <file name="audiovisual.html" crc="246656677" mt="1428509842080" redirect="true"/>
-  <file name="contacto.html" crc="449376172" mt="1428509843242" redirect="true"/>
-  <file name="menu-english.html" crc="507133410" mt="1428514083081" redirect="true"/>
-  <file name="illustration.html" crc="3953864419" mt="1428512025179" redirect="true"/>
-  <file name="audiovisuale.html" crc="251943225" mt="1428509841940" redirect="true"/>
-  <file name="editoriale.html" crc="3842003268" mt="1428509842163" redirect="true"/>
-  <file name="contact-me.html" crc="485697211" mt="1428509843200" redirect="true"/>
+  <file name="index.html" crc="3958282254" mt="1428509843372" redirect="true"/>
+  <file name="perfil.html" crc="448117843" mt="1426890528375" redirect="true"/>
+  <file name="menu.html" crc="327768951" mt="1428539370803" redirect="true"/>
+  <file name="ilustracion.html" crc="4237675130" mt="1428539431767" redirect="true"/>
+  <file name="editorial.html" crc="4027386525" mt="1428509842207" redirect="true"/>
+  <file name="audiovisual.html" crc="437697864" mt="1428509842080" redirect="true"/>
+  <file name="contacto.html" crc="529881813" mt="1428509843242" redirect="true"/>
+  <file name="menu-english.html" crc="4166015262" mt="1428539345523" redirect="true"/>
+  <file name="illustration.html" crc="121658496" mt="1428539452429" redirect="true"/>
+  <file name="audiovisuale.html" crc="4071137844" mt="1428509841940" redirect="true"/>
+  <file name="editoriale.html" crc="4048891284" mt="1428509842163" redirect="true"/>
+  <file name="contact-me.html" crc="4137682944" mt="1428509843200" redirect="true"/>
 </manifest>
