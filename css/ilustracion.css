@@ -1,7 +1,7 @@
 .version.ilustracion /* version checker */
 {
-	color: #0000EC;
-	background-color: #523E5F;
+	color: #0000E2;
+	background-color: #246169;
 }
 
 .html
@@ -314,9 +314,9 @@
 	border-color: transparent;
 	background-color: #000000;
 	padding: 10px;
+	line-height: 20px;
 	color: #999999;
 	text-align: center;
-	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 317px;
 	left: 609px;
@@ -883,9 +883,9 @@
 	width: 30px;
 	min-height: 30px;
 	background-color: transparent;
+	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
-	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 952px;
 	left: 686px;
@@ -902,9 +902,9 @@
 	width: 30px;
 	min-height: 30px;
 	background-color: transparent;
+	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
-	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 952px;
 	left: 787px;
@@ -921,9 +921,9 @@
 	width: 70px;
 	min-height: 30px;
 	background-color: transparent;
+	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
-	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 952px;
 	left: 717px;
