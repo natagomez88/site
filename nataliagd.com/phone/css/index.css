@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F5;
-	background-color: #7FA4B7;
+	color: #0000F9;
+	background-color: #97370F;
 }
 
 @-ms-viewport
@@ -37,41 +37,227 @@
 #page
 {
 	z-index: 1;
-	width: 190px;
-	min-height: 403.75px;
+	width: 380px;
+	min-height: 471px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding: 95px 95px 71.25px;
+	padding-top: 28px;
+	padding-bottom: 71px;
 }
 
-#u4450-4
+#pu5650
+{
+	width: 0.01px;
+	margin-left: 58px;
+}
+
+#u5650
+{
+	z-index: 27;
+	width: 76px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u5652
+{
+	z-index: 29;
+	width: 76px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 93px;
+}
+
+#u5654
+{
+	z-index: 31;
+	width: 76px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 188px;
+}
+
+#u5650:hover,#u5652:hover,#u5654:hover
+{
+	width: 76px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u5630
+{
+	z-index: 3;
+	width: 297px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 36px;
+	margin-top: 8px;
+	position: relative;
+}
+
+#u5633
 {
 	z-index: 4;
-	display: block;
+	width: 297px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#ppu5641
+{
+	width: 0.01px;
+	margin-left: 41px;
+	margin-top: 54px;
+}
+
+#u5641
+{
+	z-index: 7;
+	margin-bottom: -6px;
+	position: relative;
+	width: 94px;
+	margin-right: -10000px;
+	margin-top: -6px;
+	left: -6px;
+}
+
+#u5641_states
+{
+	height: 48px;
+	width: 94px;
 	vertical-align: top;
-	margin-left: 71px;
+	background: url("../../images/u5641_states.png") no-repeat 6px 6px;
+}
+
+#u5641:hover #u5641_states
+{
+	background: url("../../images/u5641_states-r.png") no-repeat 0px 0px;
+}
+
+#u5642
+{
+	z-index: 18;
+	margin-bottom: -5px;
+	position: relative;
+	width: 79px;
+	margin-right: -10000px;
+	margin-top: -5px;
+	left: 114px;
+}
+
+#u5642_states
+{
+	height: 46px;
+	width: 79px;
+	vertical-align: top;
+	background: url("../../images/u5642_states.png") no-repeat 6px 5px;
+}
+
+#u5642:hover #u5642_states
+{
+	background: url("../../images/u5642_states-r.png") no-repeat 0px 0px;
+}
+
+#u5643
+{
+	z-index: 21;
+	margin-bottom: -5px;
+	position: relative;
+	width: 85px;
+	margin-right: -10000px;
+	margin-top: -5px;
+	left: 219px;
+}
+
+#u5643_states
+{
+	height: 46px;
+	width: 85px;
+	vertical-align: top;
+	background: url("../../images/u5643_states.png") no-repeat 7px 5px;
+}
+
+#u5643:hover #u5643_states
+{
+	background: url("../../images/u5643_states-r.png") no-repeat 0px 0px;
+}
+
+#u5647-4
+{
+	z-index: 9;
+	width: 182px;
+	min-height: 36px;
+	background-color: transparent;
+	font-size: 14px;
+	color: #FFFFFF;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	margin-left: 104px;
+	margin-top: 56px;
 	position: relative;
 }
 
-#u4447
+#u5647-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 36px;
+	width: 182px;
+	margin: 56px 0px 0px 104px;
+}
+
+#u5649-4
+{
+	z-index: 13;
+	width: 119px;
+	min-height: 36px;
+	background-color: transparent;
+	font-size: 14px;
+	color: #FFFFFF;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	margin-left: 134px;
+	margin-top: 7px;
+	position: relative;
+}
+
+#u5649-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 36px;
+	width: 119px;
+	margin: 7px 0px 0px 134px;
+}
+
+#u5646-4
+{
+	z-index: 23;
+	display: block;
+	vertical-align: top;
+	margin-left: 30px;
+	margin-top: 13px;
+	position: relative;
+}
+
+#u5645
 {
 	z-index: 2;
-	width: 190px;
-	background-color: transparent;
-	margin-top: 62px;
-	position: relative;
+	height: 152px;
+	background-color: #000000;
 }
 
-#u4451-4
+#u5645-bw
 {
-	z-index: 8;
-	display: block;
-	vertical-align: top;
-	margin-left: 71px;
-	margin-top: 89px;
-	position: relative;
+	z-index: 2;
+	margin-top: -168px;
+	margin-bottom: -152px;
+	height: 152px;
 }
 
 body
