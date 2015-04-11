@@ -1,7 +1,7 @@
 .version.nataliagdeditorial /* version checker */
 {
-	color: #0000F2;
-	background-color: #3FABF5;
+	color: #0000F7;
+	background-color: #1DB4CD;
 }
 
 @-ms-viewport
@@ -49,21 +49,17 @@
 #u6694
 {
 	z-index: 132;
-	margin-left: 122px;
-	position: relative;
-}
-
-#u6694_states
-{
 	height: 46px;
 	width: 79px;
 	vertical-align: top;
-	background: url("../../images/u6694_states.png") no-repeat 6px 5px;
+	margin-left: 122px;
+	position: relative;
+	background: url("../../images/u6694.png") no-repeat 6px 5px;
 }
 
-#u6694:hover #u6694_states
+#u6694:hover
 {
-	background: url("../../images/u6694_states-r.png") no-repeat 0px 0px;
+	background: url("../../images/u6694-r.png") no-repeat 0px 0px;
 }
 
 #u6836
@@ -499,8 +495,8 @@
 	min-height: 30px;
 	background-color: transparent;
 	line-height: 20px;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 266px;
 	left: -2px;
@@ -518,8 +514,8 @@
 	min-height: 30px;
 	background-color: transparent;
 	line-height: 20px;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 265px;
 	left: 98px;
@@ -537,8 +533,8 @@
 	min-height: 30px;
 	background-color: transparent;
 	line-height: 20px;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 266px;
 	left: 28px;
@@ -807,8 +803,8 @@
 	min-height: 30px;
 	background-color: transparent;
 	line-height: 20px;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 317px;
 	left: 9px;
@@ -826,8 +822,8 @@
 	min-height: 30px;
 	background-color: transparent;
 	line-height: 20px;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 316px;
 	left: 109px;
@@ -845,8 +841,8 @@
 	min-height: 30px;
 	background-color: transparent;
 	line-height: 20px;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 317px;
 	left: 39px;
