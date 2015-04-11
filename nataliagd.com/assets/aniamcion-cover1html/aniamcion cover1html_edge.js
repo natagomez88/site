@@ -1,0 +1,7 @@
+
+(function(compId){var _=null,y=true,n=false,xc='rgba(0,0,0,1)',e9='${Rectangle}',e8='${DESATURADO}',x3='5.0.1.386',x7='rgba(255,255,255,1)',x4='rgba(0,0,0,0)',lf='left',x1='5.0.1',tp='top',g='image',x6='rgba(0,0,0,1.00)',m='rect',x2='5.0.0',i='none';var g5='DESATURADO.jpg';var im='images/',aud='media/',vid='media/',js='js/',fonts={},opts={'gAudioPreloadPreference':'auto','gVideoPreloadPreference':'auto'},resources=[],scripts=[],symbols={"stage":{v:x1,mv:x2,b:x3,stf:i,cg:i,rI:n,cn:{dom:[{id:'DESATURADO',t:g,r:['-101px','-62px','1492px','699px','auto','auto'],f:[x4,im+g5,'0px','0px'],filter:[0,0,1,1,0,0,0,0,"rgba(0,0,0,0)",0,0,0]},{id:'Rectangle',t:m,r:['-50px','-68px','176px','699px','auto','auto'],f:[x6],s:[0,xc,i],filter:[0,0,1,1,0,0,0,93,"rgba(0,0,0,0)",0,0,0]}],style:{'${Stage}':{isStage:true,r:['null','null','1366px','600px','auto','auto'],overflow:'hidden',f:[x7]}}},tt:{d:20000,a:y,data:[["eid5",lf,0,20000,"linear",e8,'-24px','-101px'],["eid36",lf,0,20000,"linear",e9,'-50px','1215px'],["eid2",tp,0,0,"linear",e8,'-62px','-62px'],["eid4",tp,20000,0,"linear",e8,'-62px','-62px'],["eid31",tp,0,0,"linear",e9,'-68px','-68px'],["eid33",tp,20000,0,"linear",e9,'-68px','-68px']]}}};AdobeEdge.registerCompositionDefn(compId,symbols,fonts,scripts,resources,opts);})("EDGE-95549270");
+(function($,Edge,compId){var Composition=Edge.Composition,Symbol=Edge.Symbol;Edge.registerEventBinding(compId,function($){
+//Edge symbol: 'stage'
+(function(symbolName){})("stage");
+//Edge symbol end:'stage'
+})})(AdobeEdge.$,AdobeEdge,"EDGE-95549270");
