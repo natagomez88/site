@@ -1,4 +1,4 @@
-<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1428710205978">
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1428763721143">
   <folder name="css">
     <file name="site_global.css" crc="422415861"/>
     <file name="nataliagdeditorial.css" crc="4230700122" ref="nataliagdeditorial"/>
@@ -6,10 +6,10 @@
     <file name="nataliagdenglish.css" crc="3840544888" ref="nataliagdenglish"/>
     <file name="nataliagdcontact-me.css" crc="4204910405" ref="nataliagdcontact-me"/>
     <file name="nataliagdillustration.css" crc="55751587" ref="nataliagdillustration"/>
-    <file name="nataliagdeditoriale.css" crc="213136432" ref="nataliagdeditoriale"/>
+    <file name="nataliagdeditoriale.css" crc="255985385" ref="nataliagdeditoriale"/>
     <file name="nataliagdaudiovisual.css" crc="90329032" ref="nataliagdaudiovisual"/>
     <file name="nataliagdperfil.css" crc="309002700" ref="nataliagdperfil"/>
-    <file name="nataliagdilustracion.css" crc="4245970518" ref="nataliagdilustracion"/>
+    <file name="nataliagdilustracion.css" crc="25727454" ref="nataliagdilustracion"/>
     <file name="index.css" crc="369779776" ref="index"/>
     <file name="nataliagdmenu.css" crc="333390262" ref="nataliagdmenu"/>
     <file name="nataliagdaudiovisuale.css" crc="4216446307" ref="nataliagdaudiovisuale"/>
@@ -66,7 +66,7 @@
   <folder name="images">
     <file name="backgroundv3.jpg" crc="4193729423" ref="phone>index"/>
     <file name="avatarmenu.png" crc="3808110741" ref="nataliagdperfil:nataliagdmenu:nataliagdilustracion:nataliagdeditorial:nataliagdaudiovisual:nataliagdcontacto:nataliagdenglish:nataliagdillustration:nataliagdaudiovisuale:nataliagdcontact-me:nataliagdeditoriale:phone>nataliagdillustration:phone>nataliagdeditorial:phone>nataliagdaudiovisual:phone>nataliagdperfil"/>
-    <file name="favicon.ico" crc="217207567" ref="index:nataliagdperfil"/>
+    <file name="favicon.ico" crc="217207567" ref="index:nataliagdperfil:nataliagdilustracion:nataliagdenglish"/>
     <file name="backgroundv7.jpg" crc="532251187" ref="index:nataliagdperfil:nataliagdcontacto:nataliagdcontact-me:phone>nataliagdillustration:phone>nataliagdperfil:phone>nataliagdaudiovisual"/>
     <file name="pinterest roll.png" crc="526799126" ref="index:nataliagdcontacto:nataliagdcontact-me"/>
     <file name="pinterest.png" crc="4210194485" ref="index:nataliagdcontacto:nataliagdcontact-me:phone>index"/>
@@ -100,18 +100,12 @@
     <file name="ilustracion.png" crc="4101814127" ref="nataliagdilustracion"/>
     <file name="u2652-4.png" crc="3999610614" ref="nataliagdilustracion"/>
     <file name="u735-5.png" crc="445500428" ref="nataliagdilustracion"/>
-    <file name="1c.jpg" crc="367745833" ref="nataliagdilustracion:phone>nataliagdillustration"/>
+    <file name="1c.jpg" crc="4126702795" ref="nataliagdilustracion:phone>nataliagdillustration"/>
     <file name="halloween.jpg" crc="285550281" ref="nataliagdilustracion:nataliagdillustration"/>
-    <file name="2c.jpg" crc="404638854" ref="nataliagdilustracion:phone>nataliagdillustration"/>
-    <file name="4c.jpg" crc="4252610876" ref="nataliagdilustracion:phone>nataliagdillustration"/>
-    <file name="5c.jpg" crc="4199036264" ref="nataliagdilustracion:phone>nataliagdillustration"/>
-    <file name="7c.jpg" crc="18902397" ref="nataliagdilustracion:phone>nataliagdillustration"/>
-    <file name="u851-4.png" crc="513944319" ref="nataliagdilustracion"/>
-    <file name="u5031-4.png" crc="3823041114" ref="nataliagdilustracion"/>
-    <file name="u2065-4.png" crc="4181867939" ref="nataliagdilustracion"/>
-    <file name="u2074-4.png" crc="4202204941" ref="nataliagdilustracion"/>
-    <file name="u2083-4.png" crc="4173940287" ref="nataliagdilustracion"/>
-    <file name="u2092-4.png" crc="3960573537" ref="nataliagdilustracion"/>
+    <file name="2c.jpg" crc="511179994" ref="nataliagdilustracion:phone>nataliagdillustration"/>
+    <file name="4c.jpg" crc="168861462" ref="nataliagdilustracion:phone>nataliagdillustration"/>
+    <file name="5c.jpg" crc="3988127368" ref="nataliagdilustracion:phone>nataliagdillustration"/>
+    <file name="7c.jpg" crc="4284818464" ref="nataliagdilustracion:phone>nataliagdillustration"/>
     <file name="loading.gif" crc="3815509949" ref="nataliagdilustracion:nataliagdeditorial:nataliagdillustration:nataliagdeditoriale:phone>nataliagdillustration:phone>nataliagdeditorial"/>
     <file name="u2651-4.png" crc="4125841983" ref="nataliagdilustracion"/>
     <file name="u2649-4.png" crc="407184354" ref="nataliagdilustracion"/>
@@ -158,14 +152,14 @@
     <file name="u2296-4.png" crc="4233951955" ref="nataliagdeditorial"/>
     <file name="posillo.png" crc="339457012" ref="nataliagdeditorial:nataliagdeditoriale"/>
     <file name="u2110-7.png" crc="3886056645" ref="nataliagdeditorial"/>
-    <file name="los tres.jpg" crc="3908230377" ref="nataliagdeditoriale:phone>nataliagdeditorial"/>
-    <file name="trotar.jpg" crc="4149520716" ref="nataliagdeditoriale:phone>nataliagdeditorial"/>
-    <file name="maracana.jpg" crc="3916083454" ref="nataliagdeditoriale:phone>nataliagdeditorial"/>
-    <file name="usaint.jpg" crc="484563941" ref="nataliagdeditoriale:phone>nataliagdeditorial"/>
-    <file name="los tres713x264.jpg" crc="3868823396" ref="nataliagdeditorial"/>
-    <file name="trotar713x264.jpg" crc="138404892" ref="nataliagdeditorial"/>
-    <file name="maracana713x264.jpg" crc="503837500" ref="nataliagdeditorial"/>
-    <file name="usaint713x264.jpg" crc="354266452" ref="nataliagdeditorial"/>
+    <file name="los tres.jpg" crc="4196992413" ref="phone>nataliagdeditorial:nataliagdeditoriale"/>
+    <file name="trotar.jpg" crc="531399422" ref="phone>nataliagdeditorial:nataliagdeditoriale"/>
+    <file name="maracana.jpg" crc="434385556" ref="phone>nataliagdeditorial:nataliagdeditoriale"/>
+    <file name="usaint.jpg" crc="3776332480" ref="phone>nataliagdeditorial:nataliagdeditoriale"/>
+    <file name="los tres713x264.jpg" crc="3868823396" ref="nataliagdeditorial:nataliagdeditoriale"/>
+    <file name="trotar713x264.jpg" crc="138404892" ref="nataliagdeditorial:nataliagdeditoriale"/>
+    <file name="maracana713x264.jpg" crc="503837500" ref="nataliagdeditorial:nataliagdeditoriale"/>
+    <file name="usaint713x264.jpg" crc="354266452" ref="nataliagdeditorial:nataliagdeditoriale"/>
     <file name="u3425-4.png" crc="3789945602" ref="nataliagdeditorial"/>
     <file name="u3501-4.png" crc="114307910" ref="nataliagdeditorial"/>
     <file name="u3492-4.png" crc="4031996226" ref="nataliagdeditorial"/>
@@ -178,20 +172,20 @@
     <file name="u3587-4.png" crc="4097354403" ref="nataliagdeditorial"/>
     <file name="u2530-4.png" crc="526037459" ref="nataliagdeditorial"/>
     <file name="u2531-4.png" crc="3822870269" ref="nataliagdeditorial"/>
-    <file name="aulas.jpg" crc="308754090" ref="nataliagdeditoriale:phone>nataliagdeditorial"/>
-    <file name="mandela.jpg" crc="4136953669" ref="nataliagdeditoriale:phone>nataliagdeditorial"/>
-    <file name="nicaragua.jpg" crc="385118990" ref="nataliagdeditoriale:phone>nataliagdeditorial"/>
-    <file name="parrilleros.jpg" crc="4256106732" ref="nataliagdeditoriale:phone>nataliagdeditorial"/>
-    <file name="periodista.jpg" crc="195923967" ref="nataliagdeditoriale:phone>nataliagdeditorial"/>
-    <file name="proceso de paz.jpg" crc="3934059786" ref="nataliagdeditoriale:phone>nataliagdeditorial"/>
-    <file name="tigrilllos.jpg" crc="163172517" ref="nataliagdeditoriale:phone>nataliagdeditorial"/>
-    <file name="aulas712x264.jpg" crc="4046734290" ref="nataliagdeditorial"/>
-    <file name="mandela712x264.jpg" crc="448293810" ref="nataliagdeditorial"/>
-    <file name="nicaragua712x264.jpg" crc="255225004" ref="nataliagdeditorial"/>
-    <file name="parrilleros712x264.jpg" crc="4290848936" ref="nataliagdeditorial"/>
-    <file name="periodista712x264.jpg" crc="441268937" ref="nataliagdeditorial"/>
-    <file name="proceso de paz712x264.jpg" crc="3793086162" ref="nataliagdeditorial"/>
-    <file name="tigrilllos712x264.jpg" crc="169524636" ref="nataliagdeditorial"/>
+    <file name="aulas.jpg" crc="226363061" ref="phone>nataliagdeditorial:nataliagdeditoriale"/>
+    <file name="mandela.jpg" crc="4236616400" ref="phone>nataliagdeditorial:nataliagdeditoriale"/>
+    <file name="nicaragua.jpg" crc="294188141" ref="phone>nataliagdeditorial:nataliagdeditoriale"/>
+    <file name="parrilleros.jpg" crc="3771814932" ref="phone>nataliagdeditorial:nataliagdeditoriale"/>
+    <file name="periodista.jpg" crc="3931756603" ref="phone>nataliagdeditorial:nataliagdeditoriale"/>
+    <file name="proceso de paz.jpg" crc="428002594" ref="phone>nataliagdeditorial:nataliagdeditoriale"/>
+    <file name="tigrilllos.jpg" crc="4022184659" ref="phone>nataliagdeditorial:nataliagdeditoriale"/>
+    <file name="aulas712x264.jpg" crc="4046734290" ref="nataliagdeditorial:nataliagdeditoriale"/>
+    <file name="mandela712x264.jpg" crc="448293810" ref="nataliagdeditorial:nataliagdeditoriale"/>
+    <file name="nicaragua712x264.jpg" crc="255225004" ref="nataliagdeditorial:nataliagdeditoriale"/>
+    <file name="parrilleros712x264.jpg" crc="4290848936" ref="nataliagdeditorial:nataliagdeditoriale"/>
+    <file name="periodista712x264.jpg" crc="441268937" ref="nataliagdeditorial:nataliagdeditoriale"/>
+    <file name="proceso de paz712x264.jpg" crc="3793086162" ref="nataliagdeditorial:nataliagdeditoriale"/>
+    <file name="tigrilllos712x264.jpg" crc="169524636" ref="nataliagdeditorial:nataliagdeditoriale"/>
     <file name="u3596-4.png" crc="523798013" ref="nataliagdeditorial"/>
     <file name="u3678-4.png" crc="300454426" ref="nataliagdeditorial"/>
     <file name="u3687-4.png" crc="4188313208" ref="nataliagdeditorial"/>
@@ -237,8 +231,6 @@
     <file name="u3836_states-r.png" crc="4244627789" ref="nataliagdenglish"/>
     <file name="u3837_states.png" crc="205726628" ref="nataliagdenglish"/>
     <file name="u3837_states-r.png" crc="253622818" ref="nataliagdenglish"/>
-    <file name="u3838_states.png" crc="207844122" ref="nataliagdenglish"/>
-    <file name="u3838_states-r.png" crc="4182248012" ref="nataliagdenglish"/>
     <file name="u3839_states.png" crc="4016331598" ref="nataliagdenglish"/>
     <file name="u3839_states-r.png" crc="4179085487" ref="nataliagdenglish"/>
     <file name="u3840_states.png" crc="159619063" ref="nataliagdenglish"/>
@@ -298,27 +290,6 @@
     <file name="u4283_states.png" crc="3991983661" ref="nataliagdcontact-me"/>
     <file name="u4283_states-r.png" crc="258482536" ref="nataliagdcontact-me"/>
     <file name="u4247-4.png" crc="436200707" ref="nataliagdcontact-me"/>
-    <file name="u5489-4.png" crc="437937558" ref="nataliagdeditoriale"/>
-    <file name="u5491-4.png" crc="3776368787" ref="nataliagdeditoriale"/>
-    <file name="u5409-7.png" crc="49174001" ref="nataliagdeditoriale"/>
-    <file name="u5462-4.png" crc="3789945602" ref="nataliagdeditoriale"/>
-    <file name="u5460-4.png" crc="114307910" ref="nataliagdeditoriale"/>
-    <file name="u5459-4.png" crc="4031996226" ref="nataliagdeditoriale"/>
-    <file name="u5461-4.png" crc="3793119951" ref="nataliagdeditoriale"/>
-    <file name="u5536-4.png" crc="418005697" ref="nataliagdeditoriale"/>
-    <file name="u5537-4.png" crc="384184561" ref="nataliagdeditoriale"/>
-    <file name="u5535-4.png" crc="4097354403" ref="nataliagdeditoriale"/>
-    <file name="u5456-4.png" crc="319431944" ref="nataliagdeditoriale"/>
-    <file name="u5488-5.png" crc="3865119050" ref="nataliagdeditoriale"/>
-    <file name="u5434-4.png" crc="523798013" ref="nataliagdeditoriale"/>
-    <file name="u5432-4.png" crc="300454426" ref="nataliagdeditoriale"/>
-    <file name="u5437-4.png" crc="4188313208" ref="nataliagdeditoriale"/>
-    <file name="u5436-4.png" crc="4195881987" ref="nataliagdeditoriale"/>
-    <file name="u5431-4.png" crc="301542517" ref="nataliagdeditoriale"/>
-    <file name="u5435-4.png" crc="119902597" ref="nataliagdeditoriale"/>
-    <file name="u5433-4.png" crc="141603890" ref="nataliagdeditoriale"/>
-    <file name="u5497-4.png" crc="3807862680" ref="nataliagdeditoriale"/>
-    <file name="u5490-4.png" crc="3771004711" ref="nataliagdeditoriale"/>
     <file name="u5641_states.png" crc="48185247" ref="phone>index"/>
     <file name="u5641_states-r.png" crc="4244627789" ref="phone>index"/>
     <file name="u5642_states.png" crc="207844122" ref="phone>index"/>
@@ -379,8 +350,6 @@
     <file name="u6693_states-r.png" crc="4244627789" ref="phone>nataliagdillustration"/>
     <file name="u6847-4.png" crc="436200707" ref="phone>nataliagdillustration"/>
     <file name="u6793-4.png" crc="223438431" ref="phone>nataliagdperfil"/>
-    <file name="u6694_states.png" crc="4119522013" ref="phone>nataliagdeditorial"/>
-    <file name="u6694_states-r.png" crc="4014212398" ref="phone>nataliagdeditorial"/>
     <file name="robos celular.jpg" crc="337997867" ref="phone>nataliagdeditorial"/>
     <file name="u6035-4.png" crc="523798013" ref="phone>nataliagdeditorial"/>
     <file name="u6232-4.png" crc="3818097319" ref="phone>nataliagdeditorial"/>
@@ -415,6 +384,37 @@
     <file name="5c2.jpg" crc="3988127368" ref="nataliagdillustration"/>
     <file name="7c2.jpg" crc="4284818464" ref="nataliagdillustration"/>
     <file name="u6905-4.png" crc="436200707" ref="phone>nataliagdperfil"/>
+    <file name="u6966-4.png" crc="513944319" ref="nataliagdilustracion"/>
+    <file name="u6967-4.png" crc="3823041114" ref="nataliagdilustracion"/>
+    <file name="u6965-4.png" crc="4181867939" ref="nataliagdilustracion"/>
+    <file name="u6968-4.png" crc="4202204941" ref="nataliagdilustracion"/>
+    <file name="u6969-4.png" crc="4173940287" ref="nataliagdilustracion"/>
+    <file name="u6970-4.png" crc="3960573537" ref="nataliagdilustracion"/>
+    <file name="u6694.png" crc="4119522013" ref="phone>nataliagdeditorial"/>
+    <file name="u6694-r.png" crc="4014212398" ref="phone>nataliagdeditorial"/>
+    <file name="u7285-4.png" crc="437937558" ref="nataliagdeditoriale"/>
+    <file name="u7341-4.png" crc="274761111" ref="nataliagdeditoriale"/>
+    <file name="u7292-7.png" crc="49174001" ref="nataliagdeditoriale"/>
+    <file name="u7220-4.png" crc="3789945602" ref="nataliagdeditoriale"/>
+    <file name="u7222-4.png" crc="114307910" ref="nataliagdeditoriale"/>
+    <file name="u7221-4.png" crc="4031996226" ref="nataliagdeditoriale"/>
+    <file name="u7219-4.png" crc="3793119951" ref="nataliagdeditoriale"/>
+    <file name="u7304-4.png" crc="418005697" ref="nataliagdeditoriale"/>
+    <file name="u7305-4.png" crc="384184561" ref="nataliagdeditoriale"/>
+    <file name="u7306-4.png" crc="4097354403" ref="nataliagdeditoriale"/>
+    <file name="u7287-4.png" crc="288987341" ref="nataliagdeditoriale"/>
+    <file name="u7337-4.png" crc="188571264" ref="nataliagdeditoriale"/>
+    <file name="u7268-4.png" crc="523798013" ref="nataliagdeditoriale"/>
+    <file name="u7266-4.png" crc="300454426" ref="nataliagdeditoriale"/>
+    <file name="u7267-4.png" crc="4188313208" ref="nataliagdeditoriale"/>
+    <file name="u7264-4.png" crc="4195881987" ref="nataliagdeditoriale"/>
+    <file name="u7262-4.png" crc="301542517" ref="nataliagdeditoriale"/>
+    <file name="u7265-4.png" crc="119902597" ref="nataliagdeditoriale"/>
+    <file name="u7263-4.png" crc="141603890" ref="nataliagdeditoriale"/>
+    <file name="u7335-4.png" crc="3807862680" ref="nataliagdeditoriale"/>
+    <file name="u7336-4.png" crc="3771004711" ref="nataliagdeditoriale"/>
+    <file name="u3838_states.png" crc="207844122" ref="nataliagdenglish"/>
+    <file name="u3838_states-r.png" crc="4182248012" ref="nataliagdenglish"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -422,24 +422,24 @@
       <file name="nataliagdillustration.css" crc="4072648349" ref="phone>nataliagdillustration"/>
       <file name="nataliagdaudiovisual.css" crc="192573161" ref="phone>nataliagdaudiovisual"/>
       <file name="nataliagdperfil.css" crc="3798751967" ref="phone>nataliagdperfil"/>
-      <file name="nataliagdeditorial.css" crc="4064259061" ref="phone>nataliagdeditorial"/>
+      <file name="nataliagdeditorial.css" crc="4145919181" ref="phone>nataliagdeditorial"/>
     </folder>
     <file name="index.html" crc="3884957317" mt="1428709647522" redirect="true"/>
     <file name="nataliagdillustration.html" crc="83759916" mt="1428709993776" redirect="true"/>
     <file name="nataliagdperfil.html" crc="413405431" mt="1428710139331" redirect="true"/>
-    <file name="nataliagdeditorial.html" crc="35544189" mt="1428710073263" redirect="true"/>
+    <file name="nataliagdeditorial.html" crc="261795044" mt="1428763369418" redirect="true"/>
     <file name="nataliagdaudiovisual.html" crc="359178320" mt="1428710044966" redirect="true"/>
   </folder>
   <file name="index.html" crc="3783191691" mt="1428702037449" redirect="true"/>
   <file name="nataliagdperfil.html" crc="361668403" mt="1428709537937" redirect="true"/>
   <file name="nataliagdmenu.html" crc="185632424" mt="1428702081956" redirect="true"/>
-  <file name="nataliagdilustracion.html" crc="41437450" mt="1428702048358" redirect="true"/>
+  <file name="nataliagdilustracion.html" crc="341322830" mt="1428762997584" redirect="true"/>
   <file name="nataliagdeditorial.html" crc="168483368" mt="1428709573981" redirect="true"/>
   <file name="nataliagdaudiovisual.html" crc="26888496" mt="1428709563548" redirect="true"/>
   <file name="nataliagdcontacto.html" crc="1302034" mt="1428703059223" redirect="true"/>
-  <file name="nataliagdenglish.html" crc="137352131" mt="1428702208462" redirect="true"/>
+  <file name="nataliagdenglish.html" crc="137352131" mt="1428763608058" redirect="true"/>
   <file name="nataliagdillustration.html" crc="4294175047" mt="1428709547624" redirect="true"/>
   <file name="nataliagdaudiovisuale.html" crc="3768689455" mt="1428702098007" redirect="true"/>
   <file name="nataliagdcontact-me.html" crc="531637532" mt="1428703056123" redirect="true"/>
-  <file name="nataliagdeditoriale.html" crc="3956120809" mt="1428702231808" redirect="true"/>
+  <file name="nataliagdeditoriale.html" crc="3958269157" mt="1428763633102" redirect="true"/>
 </manifest>
