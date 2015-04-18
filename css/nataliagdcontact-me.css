@@ -1,7 +1,7 @@
 .version.nataliagdcontact_me /* version checker */
 {
-	color: #0000F3;
-	background-color: #8D803A;
+	color: #0000FD;
+	background-color: #85AA35;
 }
 
 .html
@@ -14,14 +14,14 @@
 {
 	z-index: 1;
 	width: 836px;
-	min-height: 533.9250000000001px;
+	min-height: 517.9250000000001px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 83px 206px 56.07499999999993px 238px;
+	padding: 83px 206px 72.07499999999993px 238px;
 }
 
 #u7409
@@ -316,7 +316,7 @@
 	display: block;
 	vertical-align: top;
 	margin-left: 217px;
-	margin-top: 61px;
+	margin-top: 45px;
 	position: relative;
 }
 
