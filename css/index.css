@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000016;
-	background-color: #0A6440;
+	color: #000009;
+	background-color: #1D1918;
 }
 
 .html
@@ -14,14 +14,14 @@
 {
 	z-index: 1;
 	width: 836px;
-	min-height: 510.75px;
+	min-height: 521px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 59px 206px 30.25px 238px;
+	padding: 59px 206px 20px 238px;
 }
 
 #ppu178
@@ -187,13 +187,13 @@
 	position: relative;
 }
 
-#u3392-4
+#u7436-4
 {
 	z-index: 24;
 	display: block;
 	vertical-align: top;
-	margin-left: 255px;
-	margin-top: 37px;
+	margin-left: 197px;
+	margin-top: 47px;
 	position: relative;
 }
 

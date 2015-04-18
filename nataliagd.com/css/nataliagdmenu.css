@@ -1,7 +1,7 @@
 .version.nataliagdmenu /* version checker */
 {
-	color: #000013;
-	background-color: #DF21B6;
+	color: #000012;
+	background-color: #3CAF39;
 }
 
 .html
@@ -23,6 +23,14 @@
 	margin-right: auto;
 }
 
+#pu5278
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 6px;
+	margin-left: -100px;
+}
+
 #u5278
 {
 	z-index: 2;
@@ -31,8 +39,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 6px;
-	left: -44px;
+	left: 56px;
 }
 
 #U5280_animation
@@ -55,7 +62,7 @@
 #u3242-bw
 {
 	z-index: 3;
-	margin-top: 455px;
+	margin-top: 449px;
 	height: 155px;
 }
 
@@ -65,8 +72,8 @@
 	position: relative;
 	width: 94px;
 	margin-right: -10000px;
-	margin-top: 468px;
-	left: 480px;
+	margin-top: 462px;
+	left: 580px;
 }
 
 #u3142_states
@@ -88,8 +95,8 @@
 	position: relative;
 	width: 58px;
 	margin-right: -10000px;
-	margin-top: 470px;
-	left: 380px;
+	margin-top: 464px;
+	left: 480px;
 }
 
 #u3178_states
@@ -111,8 +118,8 @@
 	position: relative;
 	width: 79px;
 	margin-right: -10000px;
-	margin-top: 471px;
-	left: 617px;
+	margin-top: 465px;
+	left: 717px;
 }
 
 #u3143_states
@@ -134,8 +141,8 @@
 	position: relative;
 	width: 85px;
 	margin-right: -10000px;
-	margin-top: 471px;
-	left: 739px;
+	margin-top: 465px;
+	left: 839px;
 }
 
 #u3145_states
@@ -157,8 +164,8 @@
 	position: relative;
 	width: 85px;
 	margin-right: -10000px;
-	margin-top: 471px;
-	left: 866px;
+	margin-top: 465px;
+	left: 966px;
 }
 
 #u3146_states
@@ -181,19 +188,19 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 463px;
-	left: 326px;
+	margin-top: 457px;
+	left: 426px;
 }
 
-#u3394-4
+#u7440-4
 {
 	z-index: 21;
 	display: block;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 545px;
-	left: 476px;
+	margin-top: 556px;
+	left: 456px;
 }
 
 body
@@ -207,5 +214,6 @@ body
 #page .verticalspacer
 {
 	clear: both;
+	margin-bottom: -555px;
 }
 
