@@ -1,4 +1,4 @@
-<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1429365477467">
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1429366140748">
   <folder name="css">
     <file name="site_global.css" crc="422415861"/>
     <file name="nataliagdeditorial.css" crc="4230700122" ref="nataliagdeditorial"/>
@@ -61,7 +61,7 @@
   <folder name="images">
     <file name="backgroundv3.jpg" crc="4193729423" ref="phone>index"/>
     <file name="avatarmenu.png" crc="3960321666" ref="nataliagdperfil:nataliagdmenu:nataliagdilustracion:nataliagdeditorial:nataliagdaudiovisual:nataliagdcontacto:nataliagdenglish:nataliagdillustration:nataliagdaudiovisuale:nataliagdcontact-me:nataliagdeditoriale:phone>nataliagdillustration:phone>nataliagdeditorial:phone>nataliagdaudiovisual:phone>nataliagdperfil"/>
-    <file name="favicon.ico" crc="217207567" ref="index:nataliagdilustracion:nataliagdaudiovisual:nataliagdaudiovisuale"/>
+    <file name="favicon.ico" crc="217207567" ref="index:nataliagdilustracion:nataliagdaudiovisual:nataliagdaudiovisuale:nataliagdcontacto"/>
     <file name="backgroundv7.jpg" crc="532251187" ref="index:nataliagdperfil:nataliagdcontacto:nataliagdcontact-me:phone>nataliagdillustration:phone>nataliagdperfil:phone>nataliagdaudiovisual"/>
     <file name="pinterest roll.png" crc="526799126" ref="index:nataliagdcontacto:nataliagdcontact-me"/>
     <file name="pinterest.png" crc="4210194485" ref="index:nataliagdcontacto:nataliagdcontact-me:phone>index"/>
@@ -205,8 +205,8 @@
     <file name="u3328_states-r.png" crc="491455297" ref="nataliagdcontacto"/>
     <file name="u3330_states.png" crc="207844122" ref="nataliagdcontacto"/>
     <file name="u3330_states-r.png" crc="4182248012" ref="nataliagdcontacto"/>
-    <file name="u3331_states.png" crc="3991983661" ref="nataliagdcontacto"/>
-    <file name="u3331_states-r.png" crc="258482536" ref="nataliagdcontacto"/>
+    <file name="u3331_states.png" crc="4016331598" ref="nataliagdcontacto"/>
+    <file name="u3331_states-r.png" crc="4179085487" ref="nataliagdcontacto"/>
     <file name="u3404-4.png" crc="4069841299" ref="nataliagdcontacto"/>
     <file name="u3836_states.png" crc="48185247" ref="nataliagdenglish"/>
     <file name="u3836_states-r.png" crc="4244627789" ref="nataliagdenglish"/>
@@ -256,8 +256,8 @@
     <file name="u4269_states-r.png" crc="4244627789" ref="nataliagdcontact-me"/>
     <file name="u4270.png" crc="207844122" ref="nataliagdcontact-me"/>
     <file name="u4270-r.png" crc="4182248012" ref="nataliagdcontact-me"/>
-    <file name="u4283_states.png" crc="3991983661" ref="nataliagdcontact-me"/>
-    <file name="u4283_states-r.png" crc="258482536" ref="nataliagdcontact-me"/>
+    <file name="u4283_states.png" crc="4016331598" ref="nataliagdcontact-me"/>
+    <file name="u4283_states-r.png" crc="4179085487" ref="nataliagdcontact-me"/>
     <file name="u5641_states.png" crc="48185247" ref="phone>index"/>
     <file name="u5641_states-r.png" crc="4244627789" ref="phone>index"/>
     <file name="u5642_states.png" crc="207844122" ref="phone>index"/>
@@ -409,10 +409,10 @@
   <file name="nataliagdilustracion.html" crc="341322830" mt="1428762997584" redirect="true"/>
   <file name="nataliagdeditorial.html" crc="168483368" mt="1428709573981" redirect="true"/>
   <file name="nataliagdaudiovisual.html" crc="373719303" mt="1429365390606" redirect="true"/>
-  <file name="nataliagdcontacto.html" crc="464878792" mt="1429331864803" redirect="true"/>
+  <file name="nataliagdcontacto.html" crc="3878228095" mt="1429366098598" redirect="true"/>
   <file name="nataliagdenglish.html" crc="448532254" mt="1429332148010" redirect="true"/>
   <file name="nataliagdillustration.html" crc="4294175047" mt="1428709547624" redirect="true"/>
   <file name="nataliagdaudiovisuale.html" crc="4009578204" mt="1429365007747" redirect="true"/>
-  <file name="nataliagdcontact-me.html" crc="3916833288" mt="1429365402730" redirect="true"/>
+  <file name="nataliagdcontact-me.html" crc="143061304" mt="1429366115479" redirect="true"/>
   <file name="nataliagdeditoriale.html" crc="3958269157" mt="1428763633102" redirect="true"/>
 </manifest>
