@@ -95,10 +95,7 @@ $('#u4011').registerPositionScrollEffect([{"in":[-Infinity,10.55],"speed":[0,-1]
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
-} catch(e) { if (e && 'function' == typeof e.notify) e.notify(); else Muse.Assert.fail('Error calling selector function:' + e); }});
-</script>
-   </body>
-</html>
+} catch(e) { if (e && 'function' == typeof e.notify
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -108,4 +105,7 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
   ga('create', 'UA-61355496-1', 'auto');
   ga('send', 'pageview');
 
+</script>) e.notify(); else Muse.Assert.fail('Error calling selector function:' + e); }});
 </script>
+   </body>
+</html>

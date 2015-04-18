@@ -1,7 +1,7 @@
 .version.nataliagdperfil /* version checker */
 {
-	color: #000012;
-	background-color: #6B01CC;
+	color: #000008;
+	background-color: #14C607;
 }
 
 .html
@@ -13,14 +13,14 @@
 {
 	z-index: 1;
 	width: 836px;
-	min-height: 535.9000000000001px;
+	min-height: 550px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 24px 235px 40.09999999999991px 209px;
+	padding: 24px 235px 26px 209px;
 }
 
 #pu3277
@@ -62,7 +62,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 39px;
-	left: 470px;
+	left: 534px;
 }
 
 #pu2851
@@ -124,7 +124,7 @@
 
 #u4346-4
 {
-	z-index: 26;
+	z-index: 22;
 	display: block;
 	vertical-align: top;
 	margin-left: 23px;
@@ -133,13 +133,13 @@
 	position: relative;
 }
 
-#u3395-4
+#u7442-4
 {
-	z-index: 22;
+	z-index: 26;
 	display: block;
 	vertical-align: top;
-	margin-left: 282px;
-	margin-top: 43px;
+	margin-left: 222px;
+	margin-top: 57px;
 	position: relative;
 }
 
